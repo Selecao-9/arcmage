@@ -33,6 +33,14 @@ namespace DeckTranslator
                     {"Enchantment", "Enchantement"},
                     {"City", "Cité"},
                 }}, 
+                { "esperanto", new Dictionary<string, string>
+                {
+                    {"Info", "arcmage.org - aligi nin!"},
+                    {"Event", "Okazaĵo"},
+                    {"Magic", "Magio"},
+                    {"Enchantment", "Ensorĉo"},
+                    {"City", "Urbo"},
+                }}, 
             };
         }
      
