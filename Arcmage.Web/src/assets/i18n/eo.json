@@ -51,7 +51,7 @@
   "register.terms-of-service" : "Mi komprenas ke ĉiuj aĵoj kiujn mi kreos aŭ alŝutos, estas mian solan respondecon, kaj konsentas al la plena <a target='_blank' href='https://arcmage.org/terms-of-service/'>termoj de servado</a>, la <a  target='_blank' href='https://arcmage.org/privacy-policy/'>privateca politiko</a>, la <a target='_blank' href='https://arcmage.org/fair-play-policy/'>justa ludada politiko</a> kaj la <a target='_blank' href='https://arcmage.org/non-discrimination-policy/'>nediskriminada politiko</a>.",
 
   "password-forget.email-info" : "Sendi refarigan retpoŝtaĵon de pasvorto al",
-  "password-forget.email.required": "Via retpoŝto estas bezonatan. (eo)",
+  "password-forget.email.required": "Via retpoŝto estas bezonatan.",
   "password-forget.send-email": "Sendi refarigan retpoŝtaĵon de pasvorto",
   "password-forget.email-sent": "Refariga retpoŝtaĵo de pasvorto sendiĝis al vi.",
 
@@ -69,7 +69,7 @@
 
   "card.creator-artist": "Kreanto kaj Artisto",
   "card.rulings": "Oficialaj Juĝoj",
-  "card.no-rulings": "Ankoraŭ ne juĝoj. (eo)",
+  "card.no-rulings": "Ankoraŭ ne juĝoj.",
   "card.show-more": "montri pli",
   "card.show-less": "montri malpli",
   "card.artwork-from": "Arto el",
@@ -100,7 +100,7 @@
   "card.field.info-text": "Informa Teksto",
   "card.field.firstname": "Noma Linio 1",
   "card.field.lastname": "Noma Linio 2",
-  "card.field.markdown-text": "«Markdown» Teksto (eo)",
+  "card.field.markdown-text": "«Markdown» Teksto",
   "card.field.markdown-text.example": ":E:kzamplo",
   "card.field.artist": "Artisto",
   "card.field.artwork": "Arto",
@@ -110,7 +110,7 @@
   "card.field.create-date": "Krea dato",
   "card.field.last-modified-by": "Lasta redakto far",
   "card.field.last-modified-on": "Lasta redakto",
-  "card.field.master-card": "Original card (en)",
+  "card.field.master-card": "Originala karto",
 
   "card.field.name.info": "Montras sur la karton.",
   "card.field.type.info": "La aranĝa tipo de la karto.",
@@ -133,7 +133,7 @@
   "card.field.artwork.info": "Travidebla «png» (1535x1266 @ 600dpi). Opcie uzu 70px maldekstran/dekstran marĝenon taŭgi en la karta skatolo.",
   "card.field.artwork-license.info": "La permesilo de la arto. Notu ke nur artoj kongrui al unu de provizitaj permesiloj estas lasatajn. Aliaj permesiloj estas malakcepteblan kun Arcmage.",
   "card.field.artwork-source.info": "La fonto de la arto, ofte la artisto aŭ la homo aŭ aĵo, kiu komisionigis la bildo. Ne faru alŝuti arto, kiu ne estas disponeblajn laŭ unu de lasataj permesiloj.",
-  "card.field.master-card.info": "The original card in english (en)",
+  "card.field.master-card.info": "La angle originala karto.",
 
   "games.create-new-game": "Krei novan ludon!",
   "games.terms-of-service": "Per kreanta aŭ kuniĝanta ludon vi kongruas al nia <a target='_blank' href='https://arcmage.org/terms-of-service/'>termoj de servado</a>, nia <a  target='_blank' href='https://arcmage.org/privacy-policy/'>privateca politiko</a>, nia <a target='_blank' href='https://arcmage.org/fair-play-policy/'>justa ludada politiko</a> kaj nia <a target='_blank' href='https://arcmage.org/non-discrimination-policy/'>nediskriminada politiko</a>.",
@@ -155,7 +155,7 @@
   "game.find-opponent-friend": "ludu kun amiko.",
 
   "invite.you-have-been-invited": "Vi invitiĝis ludi Arcmage!",
-  "invite.invited-by": "Invitita de : (eo)",
+  "invite.invited-by": "Invitita de:",
   "invite.created-at": "Kreita je",
   "invite.game-name": "Ludo",
   "invite.expired": "... sed la ludo eksvalidiĝis.",
@@ -189,7 +189,7 @@
   "deck.total-cards": "tuto",
   "deck.card-name": "Karta nomo",
   "deck.card-amount": "Kvanto",
-  "deck.settings": "Kartaro Eksportadon k. Agordojn (eo)",
+  "deck.settings": "Kartaro Eksportadon k. Agordojn",
   "deck.export.info": "Kiam eksporta opcio estas markitan, la kartaro re-eksportos kiam savitan.",
   "deck.export.table-top-simulator": "Eksportado al integrita simulilo de surtableco.",
   "deck.export.zip-pdf": "Eksportado «pdf/zip», la elŝuta ligilo disponebliĝos kiam pretan.",
